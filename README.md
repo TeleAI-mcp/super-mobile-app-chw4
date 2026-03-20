@@ -1,2 +1,3 @@
-# super-mobile-app-chw4
-Automated issue comment bot repository
+# Super Mobile App Chw4
+
+Automated issue comment bot repository.
